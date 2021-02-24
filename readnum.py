@@ -1,0 +1,11 @@
+x = input()
+x = int(x)
+y = input()
+y = int(y)
+str1 = input()
+str2 = input()
+line = input()
+
+print(x," ", y)
+print(str1," ", str2)
+print(line)
